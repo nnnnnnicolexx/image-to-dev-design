@@ -1,0 +1,4 @@
+interface:
+  display_name: "图片转开发设计稿"
+  short_description: "分析软件界面图片、拆分元素，按需还原到 Figma 并整理开发交接信息"
+  default_prompt: "使用 $image-layer-extraction 分析我提供的界面图片，按语义拆分并整理为可与开发人员协作的设计稿；说明实际编辑能力、核验结果和待确认规则。"
