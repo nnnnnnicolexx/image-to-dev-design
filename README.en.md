@@ -2,7 +2,7 @@
 
 **Turn AI-generated or existing software UI images into Figma designs that designers and developers can review together.**
 
-![Concept cover showing the image-to-developer-design workflow](skill-overview.png)
+![Concept cover showing the image-to-developer-design workflow](skill-overview.en.png)
 
 *AI-generated concept image; not an actual product interface or acceptance screenshot.*
 
