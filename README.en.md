@@ -2,6 +2,10 @@
 
 **Turn AI-generated or existing software UI images into Figma designs that designers and developers can review together.**
 
+![Concept cover showing the image-to-developer-design workflow](skill-overview.png)
+
+*AI-generated concept image; not an actual product interface or acceptance screenshot.*
+
 AI image tools can create a visual direction quickly. Before implementation, developers still need to understand the page structure, reusable elements, text and assets, dimensions and styles, as well as interactions the image cannot show. This project packages a reusable Agent Skill for image analysis, design reconstruction, and developer handoff.
 
 [简体中文](README.md) · **English**
